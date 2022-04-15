@@ -258,7 +258,7 @@ session_start();
 					<div class="box-topmusic">
 						
 						<div class="imager-trmusic">
-							<img src="image/thunder.jpg
+							<img src="image/oto.jpg">
 							" alt="">
 						</div>
 						<div class="info-trmusic">
