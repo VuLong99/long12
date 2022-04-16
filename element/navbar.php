@@ -120,8 +120,8 @@ session_start();
 			</button>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<a class=" logo nav-link" href="index.php">
-					<span class="text-l">Tune</span>
-					<span class="text-r">Source</span>
+					<span class="text-l" href="index.php">Tune</span>
+					<span class="text-r"href="index.php">Source</span>
 				</a>
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-logo nav-item">
@@ -135,7 +135,7 @@ session_start();
 						<a class="nav-link" href="#"> All <span class="glyphicon glyphicon-home sr-only">(current)</span></a>
 					</li>
 					<li class="nav-item">
-						<a class="nav-link" href="#"> <span class="glyphicon glyphicon-user"></span>Trending</a>
+						<a class="nav-link" href="admin/admin.php"> <span class="glyphicon glyphicon-user"></span>Management all</a>
 					</li>
 					<li class="nav-item">
 						<a class="nav-link" href="#"> <span class="glyphicon glyphicon-user"></span>New</a>

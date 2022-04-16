@@ -77,7 +77,7 @@
 
 					<ul class="list-unstyled">
 						<li>
-							<a href="#!"><i style="font-size: 20px" class="fab fa-facebook-square"></i> Facebook</a>
+							<a><i style="font-size: 20px" class="fab fa-facebook-square"></i> Facebook</a>
 						</li>
 						<li>
 							<a href="#!"><i style="font-size: 20px" class="fab fa-instagram"></i> Instagram</a>

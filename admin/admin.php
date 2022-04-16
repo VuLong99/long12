@@ -58,6 +58,7 @@ else{
 <body>
 	<?php include('navbar_admin.php') ?>
 	<div class="manager">
+
 		<div  class="container-fluid">
 			<div class="row">
 				<div class="col-2">
